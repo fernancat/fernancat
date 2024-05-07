@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate Jr backend developer from Guatemala</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernancat" alt="fernancat" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Asp .Net**
 
@@ -16,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernancat&show_icons=true&locale=en&layout=compact" alt="fernancat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernancat&show_icons=true&locale=en" alt="fernancat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernancat&" alt="fernancat" /></p>
