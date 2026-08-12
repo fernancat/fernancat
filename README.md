@@ -164,13 +164,13 @@ Improving my knowledge of Docker, Linux, networking and deployment workflows.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fernancat&show_icons=true&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=fernancat&show_icons=true&hide_border=true&theme=transparent"
     height="170"
     alt="GitHub Statistics"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernancat&layout=compact&hide_border=true&langs_count=8"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernancat&layout=compact&hide_border=true&langs_count=8&theme=transparent"
  height="170"
  alt="Top Languages"
 />
@@ -179,7 +179,7 @@ Improving my knowledge of Docker, Linux, networking and deployment workflows.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fernancat&hide_border=true"
+    src="https://streak-stats.demolab.com?user=fernancat&hide_border=true&theme=transparent"
     height="170"
     alt="GitHub Streak"
   />
@@ -287,20 +287,6 @@ I use programming challenges to improve my understanding of:
 <p align="center">
   <a href="https://www.codewars.com/users/fernan1214">
     <img src="https://img.shields.io/badge/Codewars-Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile"/>
-  </a>
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernando-carranza-90b575221/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:fernancarranza90@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
 </p>
 
